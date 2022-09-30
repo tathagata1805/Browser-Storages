@@ -3,7 +3,6 @@ A repository consisting of samples on how to implement Browser Storages and its 
 Consists of features such as <br></br>
 <ul>
 <li>Cookiess</li>
-<li>Local Storage</li>
 <li>Session Storage</li>
 <li>Web SQL</li>
 <li>And more...</li>
